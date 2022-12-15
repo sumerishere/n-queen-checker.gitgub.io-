@@ -1,0 +1,1 @@
+# n-queen-checker.gitgub.io-
